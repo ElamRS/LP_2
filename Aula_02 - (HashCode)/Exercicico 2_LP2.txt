@@ -1,0 +1,10 @@
+1 - Escreva o código fonte da classe Carro com os atributos marca (String), modelo (String) e cor (String), 3 metodos construtores, métodos get/get, método equals da classe Object, método hashcode da classe Object e o método toString da classe Object;
+
+2 - Escreva o código fonte da classe Navio com os atributos nome (String) e funciomento (LocalDate), 3 metodos construtores, métodos get/get, método equals da classe Object,  método hashcode da classe Object e o método toString da classe Object;
+
+3 - Escreva o código fonte da classe Relogio com os atributos marca (String), cor (String) e tamanho (Boolean), 3 metodos construtores, métodos get/get, método equals da classe Object, método hashcode da classe Object e o método toString da classe Object;
+
+4 - Escreva o código fonte da classe Cadastro que armazene objetos da classe Carro, incluir os metodos:
+	void cadastrar() - inclui um carro no cadastro;
+	void listar() - lista todos carros armazenados no cadastro;
+	void sair() - fim;
